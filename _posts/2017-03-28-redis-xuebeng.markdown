@@ -51,7 +51,7 @@ tags:
 
 下面给出了缓存空对象的实现伪代码：
 
-![](img/in-post/post-redis-xuebeng/huancun-nullObject-code.png)
+![](/img/in-post/post-redis-xuebeng/huancun-nullObject-code.png)
 *缓存空对象的实现伪代码*
 
 **2）布隆过滤器拦截**
