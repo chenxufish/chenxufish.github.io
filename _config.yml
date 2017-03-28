@@ -96,9 +96,6 @@ friends: [
         title: "乱序",
         href: "http://mida.re/"
     },{
-        title: "前端外刊评论",
-        href: "http://qianduan.guru/"
-    },{
         title: "天镶的博客",
         href: "http://lingyu.wang/"
     },{
@@ -119,9 +116,6 @@ friends: [
     },{
         title: "尹峰以为",
         href: "http://ingf.github.io/"
-    },{
-        title: "前端神盾局",
-        href: "http://wepiaofei.github.io/blog/"
     }
 ]
 
