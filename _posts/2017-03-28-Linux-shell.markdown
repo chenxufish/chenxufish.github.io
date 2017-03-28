@@ -19,7 +19,6 @@ tags:
 
 
 ## 命令
-## 自动执行命令 ##
     0 1 * * * find /apps/shihui_engine_service/logs -atime +7 -exec rm -f {} \;
 
 
