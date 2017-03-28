@@ -1,22 +1,22 @@
 # Site settings
-title: Fish I Stone Blog
-SEOTitle: 小鱼儿的博客 | Fish I Stone Blog
+title: Cux Blog
+SEOTitle: Cux的博客 | Cux Blog
 header-img: img/home-bg.jpg
 email: jin01hua@163.com
-description: "关于后台与架构、黑客与画家 | 小鱼，Java & frameWork， Engineer | 这里是 @小鱼儿 的个人博客，与你一起发现更大的世界。"
-keyword: "小鱼儿, Hux黄玄, Hux, 鬼栈, huxpro, @huxpro, 黄玄的博客, Hux Blog, 博客, 个人网站, 互联网, 前端, 设计, 产品, 肖玉, Lynn, 肖玉的男朋友"
-url: "https://huangxuan.me"              # your host, for absolute URL
+description: "关于后台与架构、黑客与画家 | Cux，Java & frameWork， Engineer | 这里是 @Cux 的个人博客，与你一起发现更大的世界。"
+keyword: "Cux, Cux小鱼儿, 鬼栈, 博客, 个人网站, 互联网, Java, 架构, 高性能, 洁癖, 中国好男友"
+url: "https://stoneifish.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-#twitter_username:  huxpro
-facebook_username:  huxpro
+weibo_username:
+zhihu_username:
+github_username:
+#twitter_username:
+facebook_username:
 # linkedin_username:  firstname-lastname-idxxxx
 
 
@@ -51,9 +51,9 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: huxblog
+duoshuo_username:
 # Share component is depend on Comment so we can NOT use share only.
-duoshuo_share: true                     # set to false if you want to use Comment without Sharing
+duoshuo_share:                      # set to false if you want to use Comment without Sharing
 
 
 
@@ -64,13 +64,13 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
-ga_domain: huangxuan.me
+ga_domain: stoneifish.me
 
 
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，<br>离开世界之前，一切都是过程"
+sidebar-about-description: "看看书，写写代码，<br>离开世界之前，一切都是过程"
 sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
