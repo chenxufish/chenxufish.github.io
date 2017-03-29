@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "让Linux定时自动执行清理任务 —— 基于Cronlab"
-subtitle:   "Let the Linux periodically execute cleanup tasks - based on Cronlab"
+title:      "让Linux定时自动执行清理任务 —— 基于Crontab"
+subtitle:   "Let the Linux periodically execute cleanup tasks - based on Crontab"
 date:       2017-03-28 17:001:00
 author:     "Cux"
 header-img: "img/post-bg-rwd.jpg"
